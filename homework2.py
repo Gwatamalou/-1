@@ -1,0 +1,2 @@
+completed_homework, spent_hours, name_course = 12, 1.5, 'Python'
+print('Курс: ' + name_course + ', всего задач: ', completed_homework, ', затарчено часов: ', spent_hours, ', среднее время выполнения: ', spent_hours/completed_homework, sep='')
